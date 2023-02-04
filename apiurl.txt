@@ -1,0 +1,3 @@
+https://api.weatherapi.com/v1/current.json?key=db9db260ed7f4d05a00123335230302&q=22.391920,87.739662
+
+API_KEY = db9db260ed7f4d05a00123335230302
